@@ -1,0 +1,29 @@
+C:\Users\mwidg\source\repos\xox\xox\bin\Debug\xox.exe.config
+C:\Users\mwidg\source\repos\xox\xox\bin\Debug\xox.exe
+C:\Users\mwidg\source\repos\xox\xox\bin\Debug\xox.pdb
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.csprojAssemblyReference.cache
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.Form1.resources
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.Properties.Resources.resources
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.csproj.GenerateResource.cache
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.csproj.CoreCompileInputs.cache
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.exe
+C:\Users\mwidg\source\repos\xox\xox\obj\Debug\xox.pdb
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\bin\Debug\xox.exe.config
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\bin\Debug\xox.exe
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\bin\Debug\xox.pdb
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.csprojAssemblyReference.cache
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.Form1.resources
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.Properties.Resources.resources
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.csproj.GenerateResource.cache
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.exe
+C:\Users\mwidg\Documents\bellekten çıkanlar\xox\xox\obj\Debug\xox.pdb
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\bin\Debug\xox.exe.config
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\bin\Debug\xox.exe
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\bin\Debug\xox.pdb
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.csprojAssemblyReference.cache
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.Form1.resources
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.Properties.Resources.resources
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.csproj.GenerateResource.cache
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.csproj.CoreCompileInputs.cache
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.exe
+C:\Users\anilc\OneDrive\Masaüstü\Modüller\xox\xox\obj\Debug\xox.pdb
